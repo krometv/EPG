@@ -6,6 +6,9 @@
   <channel id="ppv-01">
     <display-name>Test Event @ 9:00pm</display-name>
   </channel>
+  <channel id="nfl-gamepass-01">
+    <display-name>Test Team vs Another Team @ Sep 16 8:00 PM</display-name>
+  </channel>
   <programme start="20250913003000 +0000" stop="20250913023000 +0000" channel="epl-01">
     <title>Event Today: Arsenal vs Nottingham Forest @ 12:30 13/09</title>
     <desc>Upcoming event preview and related programming</desc>
@@ -117,5 +120,61 @@
   <programme start="20250916210000 +0000" stop="20250917002400 +0000" channel="ppv-01">
     <title>Test Event</title>
     <desc>Premium pay-per-view event: Test Event. Don't miss this exclusive sporting spectacle featuring world-class athletes competing at the highest level.</desc>
+  </programme>
+  <programme start="20250916080000 +0000" stop="20250916100000 +0000" channel="nfl-gamepass-01">
+    <title>Event Today: Test Team vs Another Team @ Sep 16 8:00 PM</title>
+    <desc>Upcoming event preview and related programming</desc>
+  </programme>
+  <programme start="20250916100000 +0000" stop="20250916120000 +0000" channel="nfl-gamepass-01">
+    <title>Event Today: Test Team vs Another Team @ Sep 16 8:00 PM</title>
+    <desc>Upcoming event preview and related programming</desc>
+  </programme>
+  <programme start="20250916120000 +0000" stop="20250916140000 +0000" channel="nfl-gamepass-01">
+    <title>Event Today: Test Team vs Another Team @ Sep 16 8:00 PM</title>
+    <desc>Upcoming event preview and related programming</desc>
+  </programme>
+  <programme start="20250916140000 +0000" stop="20250916160000 +0000" channel="nfl-gamepass-01">
+    <title>Event Today: Test Team vs Another Team @ Sep 16 8:00 PM</title>
+    <desc>Upcoming event preview and related programming</desc>
+  </programme>
+  <programme start="20250916160000 +0000" stop="20250916180000 +0000" channel="nfl-gamepass-01">
+    <title>Event Today: Test Team vs Another Team @ Sep 16 8:00 PM</title>
+    <desc>Upcoming event preview and related programming</desc>
+  </programme>
+  <programme start="20250916180000 +0000" stop="20250916200000 +0000" channel="nfl-gamepass-01">
+    <title>Event Today: Test Team vs Another Team @ Sep 16 8:00 PM</title>
+    <desc>Upcoming event preview and related programming</desc>
+  </programme>
+  <programme start="20250916200000 +0000" stop="20250916232400 +0000" channel="nfl-gamepass-01">
+    <title>Test Team vs Another Team</title>
+    <desc>Test Team battles Another Team in this NFL matchup. Watch as these professional football teams clash on the gridiron in a game that could define their season.</desc>
+  </programme>
+  <programme start="20250916080000 +0000" stop="20250916100000 +0000" channel="nfl-gamepass-01">
+    <title>Event Today: Test Team vs Another Team @ Sep 16 8:00 PM</title>
+    <desc>Upcoming event preview and related programming</desc>
+  </programme>
+  <programme start="20250916100000 +0000" stop="20250916120000 +0000" channel="nfl-gamepass-01">
+    <title>Event Today: Test Team vs Another Team @ Sep 16 8:00 PM</title>
+    <desc>Upcoming event preview and related programming</desc>
+  </programme>
+  <programme start="20250916120000 +0000" stop="20250916140000 +0000" channel="nfl-gamepass-01">
+    <title>Event Today: Test Team vs Another Team @ Sep 16 8:00 PM</title>
+    <desc>Upcoming event preview and related programming</desc>
+  </programme>
+  <programme start="20250916140000 +0000" stop="20250916160000 +0000" channel="nfl-gamepass-01">
+    <title>Event Today: Test Team vs Another Team @ Sep 16 8:00 PM</title>
+    <desc>Upcoming event preview and related programming</desc>
+  </programme>
+  <programme start="20250916160000 +0000" stop="20250916180000 +0000" channel="nfl-gamepass-01">
+    <title>Event Today: Test Team vs Another Team @ Sep 16 8:00 PM</title>
+    <desc>Upcoming event preview and related programming</desc>
+  </programme>
+  <programme start="20250916180000 +0000" stop="20250916200000 +0000" channel="nfl-gamepass-01">
+    <title>Event Today: Test Team vs Another Team @ Sep 16 8:00 PM</title>
+    <desc>Upcoming event preview and related programming</desc>
+  </programme>
+  <programme start="20250916200000 +0000" stop="20250916232400 +0000" channel="nfl-gamepass-01">
+    <title>Test Team vs Another Team</title>
+    <desc>Test Team battles Another Team in this NFL matchup. Watch as these professional football teams clash on the gridiron in a game that could define their season.</desc>
   </programme>
 </tv>
