@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="epl-01">
+    <display-name>Arsenal vs Nottingham Forest @ 12:30 13/09</display-name>
+  </channel>
+  <programme start="20250913003000 +0000" stop="20250913023000 +0000" channel="epl-01">
+    <title>Event Today: Arsenal vs Nottingham Forest @ 12:30 13/09</title>
+    <desc>Upcoming event preview and related programming</desc>
+  </programme>
+  <programme start="20250913023000 +0000" stop="20250913043000 +0000" channel="epl-01">
+    <title>Event Today: Arsenal vs Nottingham Forest @ 12:30 13/09</title>
+    <desc>Upcoming event preview and related programming</desc>
+  </programme>
+  <programme start="20250913043000 +0000" stop="20250913063000 +0000" channel="epl-01">
+    <title>Event Today: Arsenal vs Nottingham Forest @ 12:30 13/09</title>
+    <desc>Upcoming event preview and related programming</desc>
+  </programme>
+  <programme start="20250913063000 +0000" stop="20250913083000 +0000" channel="epl-01">
+    <title>Event Today: Arsenal vs Nottingham Forest @ 12:30 13/09</title>
+    <desc>Upcoming event preview and related programming</desc>
+  </programme>
+  <programme start="20250913083000 +0000" stop="20250913103000 +0000" channel="epl-01">
+    <title>Event Today: Arsenal vs Nottingham Forest @ 12:30 13/09</title>
+    <desc>Upcoming event preview and related programming</desc>
+  </programme>
+  <programme start="20250913103000 +0000" stop="20250913123000 +0000" channel="epl-01">
+    <title>Event Today: Arsenal vs Nottingham Forest @ 12:30 13/09</title>
+    <desc>Upcoming event preview and related programming</desc>
+  </programme>
+  <programme start="20250913123000 +0000" stop="20250913155400 +0000" channel="epl-01">
+    <title>Arsenal vs Nottingham Forest</title>
+    <desc>Arsenal faces Nottingham Forest in this Premier League showdown. Experience the intensity of English football as these sides compete for crucial points in the world's most watched league.</desc>
+  </programme>
+</tv>
