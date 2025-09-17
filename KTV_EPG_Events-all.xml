@@ -3,6 +3,9 @@
   <channel id="epl-01">
     <display-name>Arsenal vs Nottingham Forest @ 12:30 13/09</display-name>
   </channel>
+  <channel id="ppv-01">
+    <display-name>Test Event @ 9:00pm</display-name>
+  </channel>
   <programme start="20250913003000 +0000" stop="20250913023000 +0000" channel="epl-01">
     <title>Event Today: Arsenal vs Nottingham Forest @ 12:30 13/09</title>
     <desc>Upcoming event preview and related programming</desc>
@@ -86,5 +89,33 @@
   <programme start="20250913123000 +0000" stop="20250913155400 +0000" channel="epl-01">
     <title>Arsenal vs Nottingham Forest</title>
     <desc>Arsenal faces Nottingham Forest in this Premier League showdown. Experience the intensity of English football as these sides compete for crucial points in the world's most watched league.</desc>
+  </programme>
+  <programme start="20250916090000 +0000" stop="20250916110000 +0000" channel="ppv-01">
+    <title>Event Today: Test Event @ 9:00pm</title>
+    <desc>Upcoming event preview and related programming</desc>
+  </programme>
+  <programme start="20250916110000 +0000" stop="20250916130000 +0000" channel="ppv-01">
+    <title>Event Today: Test Event @ 9:00pm</title>
+    <desc>Upcoming event preview and related programming</desc>
+  </programme>
+  <programme start="20250916130000 +0000" stop="20250916150000 +0000" channel="ppv-01">
+    <title>Event Today: Test Event @ 9:00pm</title>
+    <desc>Upcoming event preview and related programming</desc>
+  </programme>
+  <programme start="20250916150000 +0000" stop="20250916170000 +0000" channel="ppv-01">
+    <title>Event Today: Test Event @ 9:00pm</title>
+    <desc>Upcoming event preview and related programming</desc>
+  </programme>
+  <programme start="20250916170000 +0000" stop="20250916190000 +0000" channel="ppv-01">
+    <title>Event Today: Test Event @ 9:00pm</title>
+    <desc>Upcoming event preview and related programming</desc>
+  </programme>
+  <programme start="20250916190000 +0000" stop="20250916210000 +0000" channel="ppv-01">
+    <title>Event Today: Test Event @ 9:00pm</title>
+    <desc>Upcoming event preview and related programming</desc>
+  </programme>
+  <programme start="20250916210000 +0000" stop="20250917002400 +0000" channel="ppv-01">
+    <title>Test Event</title>
+    <desc>Premium pay-per-view event: Test Event. Don't miss this exclusive sporting spectacle featuring world-class athletes competing at the highest level.</desc>
   </programme>
 </tv>
